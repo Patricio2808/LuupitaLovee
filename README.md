@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Link de Css-->
+    <link rel="stylesheet" href="estilos/style.css">
+    <!--bt-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <title>Lupita Love</title>
+</head>
+<body>
+<header class="header"> <!--Logo, Menu-->
+    <img class="logo" src="images/Photoroom_20240727_003609.png" alt="Imagen de logo">
+    <nav>
+        <ul class="menu-inicio">
+            <li class="menu"><a class="item">Inicio</a></li>
+            <li class="menu"><a  class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="enlace.html" role="button" aria-expanded="truse">Productos</a></li>
+            <li class="menu"><a class="item" href="enlace.html">Contactos</a></li>
+        </ul>
+</nav>
+</header>
+<!--Imagen, descripcion -->
+<main class="main-container"> 
+    <div class="container">
+        <h2>Cartera Minibag Negra</h2>
+        <img class="img-uno" src="images/WhatsApp Image 2024-06-29 at 20.06.55 (1).jpeg" alt="Cartera">
+        <p class="Mini-bag">Minibag lupita </p>
+        <a class="enlace" href="minibag.html">Ver mas</a>
+    </div>
+    <div class="container">
+        <h2>Mochila Joup Marron</h2>
+        <img class="img-dos" src="images/WhatsApp Image 2024-06-29 at 20.06.56 (1).jpeg" alt="Mochila">
+        <p id="mochila-brown">Mochila Brown</p><a class="Boton" href="joup.html">Ver más</a>
+    </div>
+</main>
+<!--Redes, derechos-->
+<footer class="footer">
+    <div class="redes">
+        <a class="instagram" href="https://www.instagram.com/luupitalovee/?hl=es-la">logo de instagram</a>
+    <img class="instagram-2" src="symbol-instagram.png" alt="Logo de instagram">
+    </div>
+    <div>
+        <p class="texto">Todos los derechos reservados - 2024 </p>
+    </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
