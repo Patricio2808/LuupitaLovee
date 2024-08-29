@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.https://github.com/github-copilot/signup0">
     <!--Link de Css-->
     <link rel="stylesheet" href="estilos/style.css">
     <!--bt-->
